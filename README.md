@@ -62,5 +62,11 @@ $ cast <subcommand>
 ```shell
 $ forge --help
 $ anvil --help
+
+###Total Install
+install ```make``` and run ```make install``` to install all you need at once
+
+###Usage
+This is the version v1 of the project, it's still in development, please give it a star and follow me
 $ cast --help
 ```
